@@ -8,3 +8,8 @@ If you're looking to build your own lists, [I have a tool that can help generate
 If you're a regular user, [voltron.txt is the default list that DIM loads for you](https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt) and [choosy_voltron.txt is voltron with some opinionated trash rolls added in](https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/choosy_voltron.txt).
 
 The voltron(s) contain an extra bunch of rolls, c/o u/-seudonym- and u/zman2100 - [find those at the ShardItKeepIt community rolls repo](https://github.com/ThisIsMyPseudonym/sharditkeepit).
+
+# Unique to this Fork
+
+This fork includes a `cv_no_yeezy` file that removes all contributions from YeezyGT in the choosy_voltron.txt
+
