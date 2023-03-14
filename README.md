@@ -13,3 +13,4 @@ The voltron(s) contain an extra bunch of rolls, c/o u/-seudonym- and u/zman2100 
 
 This fork includes a `cv_no_yeezy` file that removes all contributions from YeezyGT in the choosy_voltron.txt
 
+Regex for removing Yeezy rolls: `^.*(?s)YeezyGT(.*?)(?:(?:\r*\n){2})`
